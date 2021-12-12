@@ -27,7 +27,7 @@ MRDARKPRINCE = [
     "https://telegra.ph/file/cbce4a97105ee1debdf91.jpg",
     "https://telegra.ph/file/7001368a78193f179bd67.jpg",
     "https://telegra.ph/file/1d1748506600b2da206c8.jpg",
-    "https://telegra.ph/file/d081b03640c7cb4247b17.jpg",
+    "https://telegra.ph/file/b0bb96f7cde270be7a455.jpg",
 ]
 
 IMAGE_THUMBNAIL = random.choice(MRDARKPRINCE)
