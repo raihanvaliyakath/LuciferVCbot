@@ -1,6 +1,6 @@
 # LUCIFER Deploy to heroku
 
-# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-JINN-OF-TG/EvaMaria-1)
+# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akbotmakersnew/LuciferVCbot)
 
 # vars
 * API_HASH - From my.telegram.org
