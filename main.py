@@ -10,7 +10,7 @@ async def main():
     print(
         """
     ------------------
-   | EvaMaria Started! |
+   | Lucifer Started! |
     ------------------
 """
     )
