@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Akbotmakersnew logo">
+  <img src="logo.jpg" alt="Akbotmakersnew logo">
 
 # LUCIFER Deploy to heroku
 
