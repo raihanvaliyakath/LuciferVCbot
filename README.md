@@ -9,8 +9,17 @@
 * SESSION  - Pyrogram String Session
 * SUDO_USERS - User ID list user counts as admin everywhere(separator using space)
 
-# DEVS
+# COMMANDS
 
-Dev - [JOKER TG](https://t.me/IAM_A_JOKER)
+* /play - play audio files or yt links.
+* /vplay - play video files or yt links.
+* /stop - stop vc.
 
-Powered by: [AkBotDevelopers](https://t.me/Ak_Bot_SupportGroup) & [LS BOTZ](https://t.me/Ls_Supportz)
+# ABOUT
+
+This is a vc playing userbot. Don't want BOT_TOKEN.
+* Bot Dev: [JOKER TG](https://t.me/IAM_A_JOKER)
+
+# OWNERS
+
+ [AkBotDevelopers](https://t.me/Ak_Bot_SupportGroup) & [LS BOTZ](https://t.me/Ls_Supportz)
